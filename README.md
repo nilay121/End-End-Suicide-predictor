@@ -1,4 +1,3 @@
 # End-End Suicide_predictor 
-Suicide predictor model has been trained on the Govt. official data, the following model has been deployed on Heroku platform and is currently live.
-
-The following is the link of the model via Heroku : https://suicidepredictor.herokuapp.com/predict
+The dataset for the Suicide Predictor model has been obtained from the website of the Govt. of India. The model predicts the number of Suicide cases that might happen in different states of India due to various reasons(e.g Dowry,Blackmailing).I have tried various Machine Learning alogorithm to achieve the lowest MSE.The complete model has been deployed on Heroku platform.
+Heroku link:- https://suicidepredictor.herokuapp.com
