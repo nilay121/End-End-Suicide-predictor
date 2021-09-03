@@ -21,6 +21,8 @@ After hypertuning the model I created a pipeline having objects of two classes O
 I created a simple API using Flask and deployed the model on Heroku.
 <br>
 Heroku link:- https://suicidepredictor.herokuapp.com
+<br>
+Youtube link :- https://www.youtube.com/watch?v=-OSjBFIxFbQ&t=1s
 
 
 
