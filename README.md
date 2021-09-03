@@ -9,7 +9,7 @@ The dataset for the Suicide Predictor model has been gathered from the website<b
 <br>
 The dataset has 7296 rows and 7 columns consisting of State,Year,Type,Type_code,Gender,Age group,Total(Suicides).It has 5 categorical columns, 1 date-time column and 1 numerical column.
 ### Data Preprocessing
-The age was actually given in a range (like 20-30,30-40), so I converted it by taking three age groups T(teenager),A(Adult) and S(Senior).
+The age was actually given in a range (like 10-30,30-40), so I converted it by taking three age groups T(teenager),A(Adult) and S(Senior).
  <br>
 There were some null values in the dataset which I just dropped because they were very less in number in comparison to the size of dataset.
 ### Feature Handling and Model Creation
